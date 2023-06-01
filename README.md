@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning NextJS, tRPC
 - ⚡ Fun fact: You can convince me to do anything if food is involved
 
-## 💻 Tech stack + Tools
+## 💻 Tech
 
 <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
 <a href="#">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</a>
