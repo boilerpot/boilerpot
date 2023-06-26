@@ -1,8 +1,7 @@
 # Hi there, I'm Harry 👋
 
 - 🔭 I’m currently working on Svolte, a Svelte Dev Tool
-- 🌱 I’m currently learning NextJS, tRPC
-- ⚡ Fun fact: You can convince me to do anything if food is involved
+- 🌱 I’m currently learning NextJS, tRPC, and GraphQL
 
 ## 💻 Tech
 
