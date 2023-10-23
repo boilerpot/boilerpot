@@ -1,4 +1,4 @@
-# Hi there, I'm Harry 👋
+# Hi there👋
 
 - 🔭 I’m currently working on Svolte, a Svelte Dev Tool
 - 🌱 I’m currently learning NextJS, tRPC, and GraphQL
