@@ -1,8 +1,4 @@
 # Hi there👋
-
-- 🔭 I’m currently working on Svolte, a Svelte Dev Tool
-- 🌱 I’m currently learning NextJS, tRPC, and GraphQL
-
 ## 💻 Tech
 
 <a href="#">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</a>
